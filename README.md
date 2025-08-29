@@ -1,2 +1,20 @@
-# AI-integrated-chatbot
-"A simple AI-powered chatbot built with Python and Google Gemini API." 
+# 🤖 Simple AI ChatBot with Google Gemini
+
+This is a simple Python chatbot built using **Google's Gemini API**.
+
+---
+
+## 🚀 Features
+- Uses `gemini-1.5-flash` model
+- Stores chat history for context
+- Runs in the terminal (CLI)
+- Easy to extend into a web app (Flask/Streamlit)
+
+---
+
+## 🛠️ Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/Simple-AI-ChatBot.git
+   cd Simple-AI-ChatBot
