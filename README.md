@@ -16,5 +16,5 @@ This is a simple Python chatbot built using **Google's Gemini API**.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/Simple-AI-ChatBot.git
+   git clone https://github.com/redxnight/AI-integrated-chatbot
    cd Simple-AI-ChatBot
